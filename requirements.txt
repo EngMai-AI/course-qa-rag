@@ -1,0 +1,9 @@
+pypdf
+python-docx
+python-pptx
+pandas
+langchain-text-splitters
+sentence-transformers
+chromadb
+google-genai
+gradio
