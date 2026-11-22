@@ -157,3 +157,7 @@ If you change `EMBED_MODEL` or the chunking settings, re-run `ingest.py`.
 ## Tech stack
 
 Python, ChromaDB, sentence-transformers, Google Gemini (`google-genai`), Gradio, pypdf, python-docx, python-pptx, pandas, LangChain text splitters.
+
+## Author
+
+**Mai** · [GitHub](https://github.com/EngMai-AI)
